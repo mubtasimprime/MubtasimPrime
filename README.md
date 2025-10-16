@@ -14,7 +14,6 @@ I’m Md. Mubtasim Fuad, a Frontend & MERN Stack Developer passionate about buil
 
 ### 🚀 Current Activities & Info
 - 🔹 Exploring **Next.js** and advanced React patterns.  
-- 🌍 Working on a **tourism website project**.  
 - 🛠️ Developing **ProFast** — a full-stack MERN product delivery system with admin and user dashboards.  
 - 💼 Internship project: **Prime Bank Securities Ltd. Website** — <a href="https://pbsl.com.bd" target="_blank" rel="noopener noreferrer">primebanksecurities.com</a>  
 - 🌱 Learning **Advanced React**, **Firebase Authentication**, and **MongoDB Aggregation**.  
