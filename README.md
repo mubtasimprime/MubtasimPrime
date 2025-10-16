@@ -12,11 +12,20 @@ I’m Md. Mubtasim Fuad, a Frontend & MERN Stack Developer passionate about buil
 
 ---
 
-### 🚀 Current Activities
-- Exploring **Next.js** and advanced React patterns.  
-- Working on a **tourism website project**.  
-- Developing **ProFast** — a full-stack MERN product delivery system with admin and user dashboards.  
-- Internship project: **Prime Bank Securities Ltd. Website** — <a href="https://pbsl.co.bd" target="_blank" rel="noopener noreferrer">primebanksecurities.com</a>  
+### 🚀 Current Activities & Info
+- 🔹 Exploring **Next.js** and advanced React patterns.  
+- 🌍 Working on a **tourism website project**.  
+- 🛠️ Developing **ProFast** — a full-stack MERN product delivery system with admin and user dashboards.  
+- 💼 Internship project: **Prime Bank Securities Ltd. Website** — <a href="https://pbsl.com.bd" target="_blank" rel="noopener noreferrer">primebanksecurities.com</a>  
+- 🌱 Learning **Advanced React**, **Firebase Authentication**, and **MongoDB Aggregation**.  
+- 👯 Looking to collaborate on **Open-source MERN projects** and **real-world web apps** that make an impact.  
+- 🤔 Seeking help with **optimizing backend performance** and **deploying full-stack apps efficiently**.  
+- 💬 Ask me about **React, Node.js, Express, MongoDB, Firebase**, and building modern web apps.  
+- 📫 Reach me at:  
+  ✉️ <a href="mailto:mubtasimfuadrafiq@gmail.com" target="_blank" rel="noopener noreferrer">mubtasimfuadrafiq@gmail.com</a>  
+  🌐 <a href="https://mubtasimfuad.netlify.app/" target="_blank" rel="noopener noreferrer">Portfolio</a>  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I once spent 3 hours fixing a bug caused by a missing semicolon 😅  
 
 ---
 
