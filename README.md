@@ -8,7 +8,7 @@
 
 ---
 
-I made this project just for fun — it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I’m a passionate Full-Stack Developer focused on building modern, scalable, and user-friendly web applications. I love working with JavaScript, React, Next.js, nodejs, expressjs, mongodb and the MERN stack, and I’m constantly learning new technologies to improve my craft. I write code that turns ideas into reality and enjoy solving challenging problems along the way.
 
 ### 🧠 **Skills**
 
