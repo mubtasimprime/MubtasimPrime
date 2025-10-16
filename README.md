@@ -74,6 +74,8 @@ I’m Md. Mubtasim Fuad, a Frontend & MERN Stack Developer passionate about buil
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mubtasimprime&theme=gruvbox&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=mubtasimprime&theme=gruvbox&margin-w=10&margin-h=10&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
 ---
 
 ### 📊 GitHub Stats
