@@ -2,7 +2,7 @@
 ### Frontend Developer | MERN Stack Developer | JavaScript Enthusiast | Passionate About Building Scalable Web Apps  
 
 <p align="center">
-  <img src="https://i.ibb.co/tpZKrdkM/IMG-20190528-191709-01.jpg" alt="Md. Mubtasim Fuad" style="max-width:100%"/>
+  <img src="https://i.ibb.co/tpZKrdkM/IMG-20190528-191709-01.jpg" alt="Md. Mubtasim Fuad"/>
 </p>
 
 
